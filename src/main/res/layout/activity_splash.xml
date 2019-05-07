@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg_messages">
+
+    <ImageView
+        android:layout_gravity="start"
+        android:layout_width="match_parent"
+        android:layout_height="800dp"
+        android:background="@drawable/logotest"
+        android:scaleType="center"/>
+
+    <!--<ImageView-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_gravity="bottom"-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="250dp"-->
+        <!--android:background="@drawable/loading"-->
+        <!--android:scaleType="centerCrop"/>-->
+</RelativeLayout>

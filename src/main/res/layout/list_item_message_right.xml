@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="right"
+    android:orientation="horizontal"
+    android:paddingBottom="5dp"
+    android:paddingRight="10dp"
+    android:paddingTop="5dp" >
+
+    <TextView
+        android:id="@+id/lblMsgFrom"
+        android:autoLink="web"
+        android:textColorLink="@color/blue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/lblFromName"
+        android:textSize="40dp"
+        android:textStyle="italic"
+        android:padding="5dp"/>
+
+
+    <TextView
+        android:id="@+id/txtMsg"
+        android:autoLink="web"
+        android:layout_width="wrap_content"
+        android:textColorLink="@color/blue"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="0dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/gradient"
+        android:paddingBottom="5dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:textColor="@color/white"
+        android:textSize="40dp" />
+    <ImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_centerInParent="true"
+        android:background="@drawable/iconfinder_malecostume_403022" />
+</LinearLayout>

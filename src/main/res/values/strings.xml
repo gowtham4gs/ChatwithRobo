@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="btn_join">JOIN</string>
+    <string name="btn_send">Send</string>
+    <string name="av3ar_chatbot">Av3ar ChatBot</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_home_navigate"></string>
+    <string name="msg">Hello</string>
+    <string name="speak_now">Speak Now</string>
+</resources>

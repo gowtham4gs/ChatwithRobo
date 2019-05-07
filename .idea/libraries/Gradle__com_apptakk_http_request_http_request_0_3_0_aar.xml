@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.apptakk.http_request:http-request:0.3.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/http-request-0.3.0.aar/8fb1c1938f105f67d3d7aaa50da67a5c/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/http-request-0.3.0.aar/8fb1c1938f105f67d3d7aaa50da67a5c/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.apptakk.http_request/http-request/0.3.0/59e06bdef76d12cf2a611b717a6ce6064210f8f1/http-request-0.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
