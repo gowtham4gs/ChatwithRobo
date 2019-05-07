@@ -210,7 +210,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             public void miclistener() {
                 try {
                     new HttpRequestTask(
-                            new HttpRequest("http://10.11.20.75:5001/", HttpRequest.GET),
+                            new HttpRequest("http://192.168.99.101:5001/", HttpRequest.GET),
                             new HttpRequest.Handler() {
                                 @Override
                                 public void response(HttpResponse response) {
@@ -480,7 +480,7 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
     private void miclistener1() {
         try {
             new HttpRequestTask(
-                    new HttpRequest("http://10.11.20.75:5001/", HttpRequest.GET),
+                    new HttpRequest("http://192.168.99.101:5001/", HttpRequest.GET),
                     new HttpRequest.Handler() {
                         @Override
                         public void response(HttpResponse response) {
